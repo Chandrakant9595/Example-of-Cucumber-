@@ -89,7 +89,7 @@ public class DataDrivenUsingTableStepDefination {
 	@Then("^driver close the browser$")
 	public void driver_close_the_browser(){
 	    
-		driver.quit();
+		driver.close();
 	}
 
 }
