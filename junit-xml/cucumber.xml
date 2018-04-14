@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0.127446">
+<testcase classname="Test TG" name="First Scenario" time="0.122169">
+<system-out><![CDATA[Given test one..............................................................passed
+When test two...............................................................passed
+Then test three.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test TG" name="Second Scenario" time="0.000735">
+<system-out><![CDATA[Given test one..............................................................passed
+When test two...............................................................passed
+Then test three.............................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Test TG" name="Three Scenario" time="0.004542">
+<system-out><![CDATA[Given test one..............................................................passed
+When test two...............................................................passed
+Then test three.............................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
